@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # @Date    : 2019/3/26
-# @Author  : liyan (li.yan@eisoo.com)
+# @Author  : 
 
 import datetime
 import xlrd
